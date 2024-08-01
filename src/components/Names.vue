@@ -82,6 +82,8 @@ export default {
     };
 
     const stepBack = () => {
+      reset();
+      resume();
       const previous = state.index--;
       if (previous <= 0) state.index = listLength.value - 1;
     };
