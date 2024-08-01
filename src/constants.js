@@ -54,6 +54,10 @@ export const NAMES = [
     stack: "Web QA",
   },
   {
+    name: "Varga Mónika",
+    stack: "Web QA",
+  },
+  {
     name: "Németh Attila",
     stack: "Product Owner",
   },
