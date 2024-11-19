@@ -34,6 +34,10 @@ export const NAMES = [
     stack: "Backend",
   },
   {
+    name: "Kürtös Máté",
+    stack: "Backend",
+  },
+  {
     name: "Rábai Petra",
     stack: "Autmation Tester",
   },
