@@ -66,7 +66,7 @@ export const NAMES = [
     stack: "Product Owner",
   },
   {
-    name: "Nagy Ágnes",
+    name: "Kürti Bianka",
     stack: "Product Manager",
   },
 ];
