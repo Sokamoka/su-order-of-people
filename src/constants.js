@@ -26,17 +26,13 @@ export const NAMES = [
     stack: "Backend",
   },
   {
-    name: "Nyiri András",
-    stack: "Backend",
-  },
-  {
     name: "Bertalan Balázs",
     stack: "Backend",
   },
-  {
-    name: "Kürtös Máté",
-    stack: "Backend",
-  },
+  // {
+  //   name: "Kürtös Máté",
+  //   stack: "Backend",
+  // },
   {
     name: "Rábai Petra",
     stack: "Autmation Tester",
@@ -51,10 +47,6 @@ export const NAMES = [
   },
   {
     name: "Jókuthy Szilárd",
-    stack: "Web QA",
-  },
-  {
-    name: "Baross Attila",
     stack: "Web QA",
   },
   {
