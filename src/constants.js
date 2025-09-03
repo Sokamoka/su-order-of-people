@@ -18,6 +18,10 @@ export const NAMES = [
     stack: "Frontend",
   },
   {
+    name: "Molnár Tamás",
+    stack: "Frontend",
+  },
+  {
     name: "Gyurkota Tamás",
     stack: "Core",
   },
@@ -51,6 +55,10 @@ export const NAMES = [
   },
   {
     name: "Varga Mónika",
+    stack: "Web QA",
+  },
+  {
+    name: "Raj Krisztina",
     stack: "Web QA",
   },
   {
