@@ -14,10 +14,6 @@ export const NAMES = [
     stack: "Frontend",
   },
   {
-    name: "Karácsonyi Krisztián",
-    stack: "Frontend",
-  },
-  {
     name: "Molnár Tamás",
     stack: "Frontend",
   },
