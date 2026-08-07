@@ -18,6 +18,10 @@ export const NAMES = [
     stack: "Frontend",
   },
   {
+    name: "Dienes László",
+    stack: "Frontend",
+  },
+  {
     name: "Gyurkota Tamás",
     stack: "Core",
   },
